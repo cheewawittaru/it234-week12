@@ -1,8 +1,8 @@
 {
-  "shopName": "ร้านกาแฟของฉัน",
-  "owner": "ชื่อนักศึกษา",
-  "studentId": "6XXXXXXXXX",
-  "ownerPhone": "081-234-5678",
+  "shopName": "Coffee Shop",
+  "owner": "นายชีวาวิชญ์ ตรุณรัตน์",
+  "studentId": "1680702618",
+  "ownerPhone": "061-324-4154",
   "products": [
     {
       "id": 1,
@@ -16,7 +16,7 @@
       "id": 2,
       "name": "ชาไทย",
       "price": 45,
-      "emoji": "🧋",
+      "emoji": "☕",
       "available": true,
       "tags": ["ชา", "เย็น", "ขายดี"]
     },
